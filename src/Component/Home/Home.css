@@ -1,0 +1,11 @@
+.div{
+    background-color: rgb(177, 174, 174);
+}
+.item{
+    color: rgb(255, 129, 150);
+    opacity: 80%;
+    font-family: serif;
+}
+body{
+    font-family: 'Satisfy', cursive;
+}
